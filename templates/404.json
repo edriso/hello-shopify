@@ -1,0 +1,13 @@
+{
+    "name": "Template 404",
+    // "layout": "custom_theme",
+    "wrapper": "div#404-template.text-center.py-4[custom-attribute=hello]",
+    "sections": {
+        "template": {
+            "type": "template-404"
+        }
+    },
+    "order": [
+        "template"
+    ]
+}
